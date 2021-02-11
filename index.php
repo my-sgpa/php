@@ -1,1 +1,3 @@
-g77t77t
+<?php
+echo phpinfo();
+?>
